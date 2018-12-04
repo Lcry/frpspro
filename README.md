@@ -1,4 +1,4 @@
-# frps 一键安装脚本
+# frps 一键安装脚本【转】
 ## 支持系统 Centos 7+ Debian 8+
 ```
 wget -N --no-check-certificate git.io/f.sh && chmod +x f.sh && bash f.sh install
